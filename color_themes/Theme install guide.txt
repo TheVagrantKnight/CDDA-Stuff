@@ -8,7 +8,7 @@ Installing a colour theme is fairly simple in CDDA.
 
 4. Start up the game itself.
 
-5. on the main menu, go to settings > colours and hit Ctrl + C to select a colour theme. The added themes should be in the list.
+5. on the main menu, go to settings > colours and hit shift + C to select a colour theme. The added themes should be in the list.
 
 6. It won't update immediately. To get the changes to take effect, you have to close and restart the game.
 
